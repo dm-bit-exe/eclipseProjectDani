@@ -1,0 +1,10 @@
+TI;57390691;Carlos;Torres
+CC;86876008;Sergio;Matabanchoy
+CE;51529468;Daniel;Morales
+CC;90864531;Laura;Ramirez
+CC;96715951;Sergio;Gomez
+TI;60576944;Sergio;Ramirez
+CC;46604585;Ana;Ramirez
+CC;83666977;Jorge;Perez
+CE;87028775;Sofia;Diaz
+CC;44938825;Mariana;Perez
